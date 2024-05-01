@@ -1,6 +1,6 @@
 # JobMela - Simple Job Finder React App
 Mela
-![Job App Screenshot](screenshot 2.png)
+![JobMela App Screenshot](#screenshot2.png,#screenshot1.png,#screenshot3.png#screenshot4.png#screenshot5.png,#screenshot6.png,#screenshot7.png,#screenshot8.png)
 SeekJob is a simple job finder web application built with React, Tailwind CSS, and Vite. It helps users search for job listings based on various criteria, making it easier to find job opportunities that match their preferences.
 
 
@@ -12,7 +12,7 @@ SeekJob is a simple job finder web application built with React, Tailwind CSS, a
 
 ## Getting Started
 
-To get started with SeekJob locally, follow these steps:
+To get started with Jonmela locally, follow these steps:
 
 1. Clone this repository:
 
@@ -40,7 +40,7 @@ To get started with SeekJob locally, follow these steps:
  http://localhost:3000
 ```
 ## Contributing
-If you'd like to contribute to SeekJob, please follow these steps:
+If you'd like to contribute to Jobmela, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch for your feature or bug fix.
